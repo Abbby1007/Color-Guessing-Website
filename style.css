@@ -1,0 +1,26 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+#gameArea {
+  width: 80%;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #ffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  font-size: 25px;
+}
+
+
+body{
+  /* background-color: black;
+  color: white; */
+}
+
+img{
+  max-width: 50%;
+  max-height: 50%;
+}
